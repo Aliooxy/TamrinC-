@@ -1,0 +1,13 @@
+C:\Users\Computer.Kosar\Desktop\tamarin programing\tamrin6\tamrin6\bin\Debug\netcoreapp3.1\tamrin6.exe
+C:\Users\Computer.Kosar\Desktop\tamarin programing\tamrin6\tamrin6\bin\Debug\netcoreapp3.1\tamrin6.deps.json
+C:\Users\Computer.Kosar\Desktop\tamarin programing\tamrin6\tamrin6\bin\Debug\netcoreapp3.1\tamrin6.runtimeconfig.json
+C:\Users\Computer.Kosar\Desktop\tamarin programing\tamrin6\tamrin6\bin\Debug\netcoreapp3.1\tamrin6.runtimeconfig.dev.json
+C:\Users\Computer.Kosar\Desktop\tamarin programing\tamrin6\tamrin6\bin\Debug\netcoreapp3.1\tamrin6.dll
+C:\Users\Computer.Kosar\Desktop\tamarin programing\tamrin6\tamrin6\bin\Debug\netcoreapp3.1\tamrin6.pdb
+C:\Users\Computer.Kosar\Desktop\tamarin programing\tamrin6\tamrin6\obj\Debug\netcoreapp3.1\tamrin6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer.Kosar\Desktop\tamarin programing\tamrin6\tamrin6\obj\Debug\netcoreapp3.1\tamrin6.AssemblyInfoInputs.cache
+C:\Users\Computer.Kosar\Desktop\tamarin programing\tamrin6\tamrin6\obj\Debug\netcoreapp3.1\tamrin6.AssemblyInfo.cs
+C:\Users\Computer.Kosar\Desktop\tamarin programing\tamrin6\tamrin6\obj\Debug\netcoreapp3.1\tamrin6.csproj.CoreCompileInputs.cache
+C:\Users\Computer.Kosar\Desktop\tamarin programing\tamrin6\tamrin6\obj\Debug\netcoreapp3.1\tamrin6.dll
+C:\Users\Computer.Kosar\Desktop\tamarin programing\tamrin6\tamrin6\obj\Debug\netcoreapp3.1\tamrin6.pdb
+C:\Users\Computer.Kosar\Desktop\tamarin programing\tamrin6\tamrin6\obj\Debug\netcoreapp3.1\tamrin6.genruntimeconfig.cache
