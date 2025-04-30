@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Computer.Kosar\\source\\repos\\tamrin11\\tamrin11\\tamrin11.csproj": {}
+    "C:\\Users\\Computer.Kosar\\Desktop\\tamarin programing\\TamrinC-\\tamrin11\\tamrin11\\tamrin11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Computer.Kosar\\source\\repos\\tamrin11\\tamrin11\\tamrin11.csproj": {
+    "C:\\Users\\Computer.Kosar\\Desktop\\tamarin programing\\TamrinC-\\tamrin11\\tamrin11\\tamrin11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Computer.Kosar\\source\\repos\\tamrin11\\tamrin11\\tamrin11.csproj",
+        "projectUniqueName": "C:\\Users\\Computer.Kosar\\Desktop\\tamarin programing\\TamrinC-\\tamrin11\\tamrin11\\tamrin11.csproj",
         "projectName": "tamrin11",
-        "projectPath": "C:\\Users\\Computer.Kosar\\source\\repos\\tamrin11\\tamrin11\\tamrin11.csproj",
+        "projectPath": "C:\\Users\\Computer.Kosar\\Desktop\\tamarin programing\\TamrinC-\\tamrin11\\tamrin11\\tamrin11.csproj",
         "packagesPath": "C:\\Users\\Computer.Kosar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Computer.Kosar\\source\\repos\\tamrin11\\tamrin11\\obj\\",
+        "outputPath": "C:\\Users\\Computer.Kosar\\Desktop\\tamarin programing\\TamrinC-\\tamrin11\\tamrin11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
